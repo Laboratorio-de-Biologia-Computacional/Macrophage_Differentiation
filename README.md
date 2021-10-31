@@ -1,6 +1,7 @@
-# BooleanCOVID
-Boolean models of Covid-19 inmunopatogenesis
+# Macrophage regulatory network
 
+Cyclic attractors are critical for macrophage differentiation, heterogeneity and plasticity. 
+Manuel Azaid Ordaz-Arias, Laura Díaz-Alvarez, Mariana Esther Martinez-Sánchez, Yalbi I. Balderas-Martínez
 
 ## How to run
 
